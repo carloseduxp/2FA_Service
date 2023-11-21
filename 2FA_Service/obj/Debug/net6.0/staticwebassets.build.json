@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "VUWn8QR3Q3dGHl2IN0TJE9o0s21bRiU/QPUeK72ccYw=",
+  "Source": "2FA_Service",
+  "BasePath": "_content/2FA_Service",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
